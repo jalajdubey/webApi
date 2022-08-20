@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>PHP REST API MySQL AJAX jQuery CRUD</title>
+	<title>PHP REST API MySQL AJAX jQuery CRUD updated with security adudit!</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 
